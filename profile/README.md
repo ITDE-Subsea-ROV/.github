@@ -20,4 +20,3 @@ https://github.com/user-attachments/assets/73719faf-82af-4f3e-8071-b95410e7b3d4
 ├── Subsea-ROV             # Main obc & gcs source + docker 
 └── zips                   # '*.zip' use github LFS
 ```
-# .github
